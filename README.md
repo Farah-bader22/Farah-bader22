@@ -4,8 +4,8 @@
     </a>
     
     # Farah Bader 👋 
-    <h3 style="color: #4FC08D;">🚀 Computer Systems Engineer | Full Stack Developer</h3>
-    <h4 style="color: #90A4AE;">Specializing in High-Performance Vue.js & Scalable Laravel Architectures.</h4>
+    ## 🚀 Computer Systems Engineer | Full Stack Developer
+    ### Specializing in High-Performance Vue.js & Scalable Laravel Architectures.
     
     <p>
         <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4FC08D?style=for-the-badge&logo=slack&logoColor=white" alt="Open to Work Status"/>
