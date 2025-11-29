@@ -3,10 +3,10 @@
         <img src="https://avatars.githubusercontent.com/u/74382583?v=4" alt="Farah Bader Avatar" width="180" height="180" style="border-radius: 50%; border: 5px solid #4FC08D;">
     </a>
     
-    # Farah Bader 👋 
-    ## 🚀 Computer Systems Engineer | Full Stack Developer
-    ### Specializing in High-Performance Vue.js & Scalable Laravel Architectures.
+    <h1>Hi there! I'm Farah Bader 👋</h1>
     
+    <h3>Computer Systems Engineer | Full Stack Developer specializing in the Vue.js Ecosystem.</h3>
+
     <p>
         <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4FC08D?style=for-the-badge&logo=slack&logoColor=white" alt="Open to Work Status"/>
         <img src="https://visitor-badge.glitch.me/badge?page_id=Farah-bader22.Farah-bader22&style=for-the-badge&color=blue" alt="Visitors Count"/>
@@ -66,3 +66,4 @@
         <img src="https://img.shields.io/badge/LinkedIn-Farah%20Bader-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
+    
