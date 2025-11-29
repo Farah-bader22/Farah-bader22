@@ -1,5 +1,4 @@
-
-  <div align="center">
+<div align="center">
     <a href="https://www.linkedin.com/in/farah-bader-528994379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://avatars.githubusercontent.com/u/74382583?v=4" alt="Farah Bader Avatar" width="180" height="180" style="border-radius: 50%; border: 5px solid #4FC08D;">
     </a>
@@ -57,26 +56,6 @@
 
 ---
 
-## 📊 GitHub Performance Insights
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Farah-bader22&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&line_height=25&title_color=FF2D20&icon_color=4FC08D&text_color=90A4AE&bg_color=1F2937" alt="Farah Bader GitHub Stats" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-bader22&layout=compact&theme=radical&hide_border=false&border_radius=10&langs_count=6&title_color=FF2D20&icon_color=4FC08D&text_color=90A4AE&bg_color=1F2937" alt="Top Languages" />
-</p>
-
----
-
-## 💡 Featured Project (Highly Recommended)
-
-### 💎 Showcase: [Project Name] - [Brief Goal]
-
-A short, powerful description of your best project. (e.g., A scalable e-commerce platform built with Vue 3, Pinia, and Laravel API, demonstrating secure user authentication and advanced state management.)
-
-**[🔗 View Live Demo]** | **[📂 Explore Repository]**
-
----
-
 ## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
@@ -85,8 +64,5 @@ A short, powerful description of your best project. (e.g., A scalable e-commerce
     </a>
     <a href="https://www.linkedin.com/in/farah-bader-528994379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://img.shields.io/badge/LinkedIn-Farah%20Bader-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
 </p>
