@@ -3,7 +3,7 @@
         <img src="https://avatars.githubusercontent.com/u/74382583?v=4" alt="Farah Bader Avatar" width="180" height="180" style="border-radius: 50%; border: 5px solid #4FC08D;">
     </a>
     
-    <h1>Farah Bader 👋</h1>
+    # Farah Bader 👋 
     <h3 style="color: #4FC08D;">🚀 Computer Systems Engineer | Full Stack Developer</h3>
     <h4 style="color: #90A4AE;">Specializing in High-Performance Vue.js & Scalable Laravel Architectures.</h4>
     
